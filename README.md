@@ -6,6 +6,8 @@ A macOS Finder Quick Action for creating clean, shareable project archives.
 
 Creates a ZIP beside a selected folder while applying that folder's `.gitignore` rules. It is useful for sharing source folders without dependencies, build output, caches, or other ignored files.
 
+![Zip Using .gitignore Finder Quick Action](assets/demo.gif)
+
 ### Install
 
 1. Double-click `Zip Using gitignore.workflow`.
